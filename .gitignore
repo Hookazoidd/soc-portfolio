@@ -10,3 +10,5 @@
 *.pfx
 *.evtx
 *.log
+*.7z
+*.zip
