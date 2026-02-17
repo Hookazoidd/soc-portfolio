@@ -1,0 +1,12 @@
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+.env
+*.pem
+*.key
+*.pfx
+*.evtx
+*.log
